@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/varunprepo/instagramclone/main/blob/instagramclone.JPG" title="Instagramclone" alt="Instaclone banner not found"></a>
+<a href="#"><img src="https://github.com/varunprepo/instagramclone/blob/main/instagramclone.JPG" title="Instagramclone" alt="Instaclone banner not found"></a>
 
 # Instagramclone
 
