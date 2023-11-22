@@ -1,5 +1,4 @@
-<a href="#"><img src="https://github.com/varunprepo/instagramclone/blob/main/instagramclone.JPG" title="Instagramclone" alt="Instaclone banner not found"></a>
-
+![alt Instaclone banner not found](https://github.com/varunprepo/instagramclone/blob/main/instagramclone.JPG)
 # Instagramclone
 
 > An instagram clone created with MongoDB, Express, React, and Socket.io
