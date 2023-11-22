@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/varunprepo/instagramclone/blob/main/instagramclone.JPG" title="Instagramclone" alt="Instaclone banner not found"></a>
+<a href="#"><img src="https://github.com/varunprepo/instagramclone/main/blob/instagramclone.JPG" title="Instagramclone" alt="Instaclone banner not found"></a>
 
 # Instagramclone
 
@@ -22,7 +22,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/varunprepo/instaclone`
+- Clone this repo to your local machine using `https://github.com/varunprepo/instagramclone`
 
 ### Setup
 
@@ -61,51 +61,9 @@ MODERATECONTENT_API_KEY= // Free API key from https://moderatecontent.com
 > In the root directory run both the backend and the front end with the following command
 
 ```shell
-$ npm run dev
+$ npm start
 ```
 
 The app should launch automatically
-
----
-
-## Installation - Production with Docker
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/varunprepo/instaclone`
-
-### Setup
-
-> Create a free <a href="https://cloudinary.com/">`Cloudinary account`</a>
-
-> Create a <a href='https://github.com/settings/developers'>`GitHub OAuth app`</a>
-
-> Create a .env file in the root directory
-
-> Set up required environment variables
-
-```javascript
-MONGO_URI= // mongodb://mongo:27017/instaclone
-JWT_SECRET= // random string: o786820jf0hgjsalij3r65
-CLOUDINARY_API_KEY= // Cloudinary API key
-CLOUDINARY_API_SECRET= // Cloudinary API secret
-CLOUDINARY_CLOUD_NAME= // Cloudinary cloud name
-SMTP_HOST= // mail.example.com
-SMTP_PORT= // 577
-EMAIL_USERNAME= // email@example.com
-EMAIL_PASSWORD= // Password
-HOME_URL= // http://localhost:3000
-GITHUB_CLIENT_ID= // Client id for GitHub OAuth app
-GITHUB_CLIENT_SECRET= // Client secret for GitHub OAuth app
-MODERATECONTENT_API_KEY= // Free API key from https://moderatecontent.com
-```
-
-> In the root directory start the docker container by using the docker-compose file using the following command
-
-```shell
-$ docker-compose up
-```
-
-Docker will configure the rest for you, the project should be available on port 9000 unless you specified otherwise 😄
 
 ---
