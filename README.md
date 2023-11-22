@@ -61,7 +61,7 @@ MODERATECONTENT_API_KEY= // Free API key from https://moderatecontent.com
 > In the root directory run both the backend and the front end with the following command
 
 ```shell
-$ npm start
+$ npm run dev
 ```
 
 The app should launch automatically
